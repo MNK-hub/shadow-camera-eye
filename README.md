@@ -17,7 +17,8 @@ $ git clone https://github.com/MNK-hub/shadow-camera-eye
 
 $ cd shadow-camera-eye
 
-$ chmod +x shadow-camera-eye.sh
+$ chmod +x
+shadow-camera-eye.sh
 
 $ bash shadow-camera-eye.sh
 ```
