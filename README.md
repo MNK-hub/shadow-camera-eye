@@ -10,11 +10,16 @@
 
 ```
 $ apt update && apt upgrade
+
 $ apt install git php wget curl jq
+
 $ git clone https://github.com/MNK-hub/shadow-camera-eye
+
 $ cd shadow-camera-eye
+
 $ chmod +x shadow-camera-eye.sh
-$ ./shadow-camera-eye.sh
+
+$ bash shadow-camera-eye.sh
 ```
 
 <b>happy hacking : ]<b>
